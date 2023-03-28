@@ -1,0 +1,11 @@
+Path;Line;Rule;Descr
+Dir-01.01.c;2;COMPILER_ERR;This is the 1 problem
+Dir-01.01.c;3;COMPILER_ERR;This is the 2 problem
+Dir-01.01.c;5;COMPILER_WARN;This is the 3 problem
+Dir-01.01.c;6;COMPILER_INFO;This is the 4 problem
+Dir-01.01.c;8;COMPILER_ERR;This is the 5 problem
+Dir-04.03.c;2;COMPILER_ERR;This is the 1 problem in second folder
+Dir-04.03.c;3;COMPILER_ERR;This is the 2 problem in second folder
+Dir-04.03.c;5;COMPILER_WARN;This is the 3 problem in second folder
+Dir-04.03.c;6;COMPILER_INFO;This is the 4 problem in second folder
+Dir-04.03.c;8;COMPILER_ERR;This is the 5 problem in second folder
