@@ -17,5 +17,6 @@
 
 extern int16_t rule_2206( void )
 {
+   int dos = 2;
    return 1;
 }
