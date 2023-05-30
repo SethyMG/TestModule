@@ -6,5 +6,5 @@
 
 #ifndef TGMATH_H
 #define TGMATH_H
-
+//int c=1;
 #endif
