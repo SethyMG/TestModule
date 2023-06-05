@@ -17,6 +17,7 @@
 
 extern int16_t rule_2206( void )
 {
+   int quatro = 4;
    int tres = 3;
    int dos = 2;
    return 1;
