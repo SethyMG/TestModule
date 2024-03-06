@@ -1,0 +1,1 @@
+/home/morgan/Squore/24.0.0/squore-server/samples/c/Earth/V6/apps/master.c
