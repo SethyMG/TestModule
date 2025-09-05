@@ -14,6 +14,7 @@ void score_player()
      /*           current guess            */
      /**************************************/ 
 {
+	/* add a comment here */
   int x, y;
     /* checks black pegs*/
   for (x = 0; x < 4; x++)
