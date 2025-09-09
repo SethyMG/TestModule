@@ -12,6 +12,7 @@ void score_player()
      /**************************************/
      /* Function: defines score for        */
      /*           current guess            */
+     /*   Update du commentaire player     */
      /**************************************/ 
 {
   int x, y;
