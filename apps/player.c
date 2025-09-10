@@ -15,6 +15,7 @@ void score_player()
      /**************************************/ 
 {
   int x, y;
+  int a;
     /* checks black pegs*/
   for (x = 0; x < 4; x++)
     guesses[cur].pegs[x].used = code.pegs[x].used = NONE;
