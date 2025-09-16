@@ -1,7 +1,7 @@
 /* >>>------------------------------------------------------------
  * 
  * File: Rule-01.01.c,  Module: M3CM-1.0.3-QAC-8.2.2
- * 
+ * update du commentaire en Francais test test test 
  * RULE Rule-1.1 (Required):
  * The program shall contain no violations of the standard C
  * syntax and constraints, and shall not exceed the implementation's
