@@ -17,5 +17,8 @@
 
 extern int16_t dir_0301( void )
 {
+   int x;
+   int y;
+
    return 1;
 }
