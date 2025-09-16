@@ -1,5 +1,5 @@
 /* >>>------------------------------------------------------------
- * test comment
+ * test comment test
  *
  * File: Rule-01.01.c,  Module: M3CM-1.0.3-QAC-8.2.2
  * 
